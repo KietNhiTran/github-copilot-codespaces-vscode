@@ -1,7 +1,4 @@
-// create a web server that listens to a port and returns a comment
-// in response to a request
-// Run this server using node comments.js and open http://localhost:3000 in your browser
-// To stop the server, press Ctrl+C
+// Create web server
 
 var http = require('http');
 
